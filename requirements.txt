@@ -1,0 +1,7 @@
+azure-identity==1.17.1
+azure-cognitiveservices-speech==1.40.0
+openai==1.50.1
+azure-storage-blob==12.22.0
+pydantic==2.9.2
+azure-functions==1.17.0
+python-dotenv==1.0.0
