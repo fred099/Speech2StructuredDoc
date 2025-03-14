@@ -1,0 +1,74 @@
+{
+  "transcription": "[Speaker Guest-1]: Hej, erik och Lena, tack för att ni kom idag.\n[Speaker Guest-1]: Jag ser fram emot att diskutera er investeringsportfölj och era framtidsplaner.\n[Speaker Guest-1]: Låt oss börja med titta på er nuvarande investeringsportfölj.\n[Speaker Guest-1]: Just nu har ni 60 % av era tillgångar i aktier, 30 % i obligationer och 10 % i alternativa investeringar.\n[Speaker Guest-1]: Totalt har ni en portfölj på två miljoner kronor.\n[Speaker Guest-1]: Av era aktier är 40 % svenska och 60 % internationella.\n[Speaker Guest-1]: Vi ser att den svenska marknaden har presterat bra senaste året, men vi vill även diversifiera mer internationellt för att minska risken.\n[Speaker Guest-1]: Nu över till ESG investeringar.\n[Speaker Guest-1]: Jag har sett att ni är intresserade av hållbara investeringar.\n[Speaker Guest-1]: Just nu är 20 % av er portfölj i företag som uppfyller ESG kriterier.\n[Speaker Guest-1]: Det finns möjlighet att öka den andelen om ni är intresserade av att fokusera mer på hållbarhet.\n[Speaker Guest-1]: Låt oss också diskutera pensionsplaneringen.\n[Speaker Guest-1]: Erik ni har en tjänstepension på cirka 1,5 miljoner kronor och Lena, du har en individuell pension på åttahundratusen kronor.\n[Speaker Guest-1]: Det är viktigt att vi ser över hur dessa fonder förvaltas och om vi behöver göra några justeringar.\n[Speaker Guest-2]: Tack, Maria, det låter bra?\n[Speaker Guest-2]: Jag är intresserad av att veta mer om hur vi kan förbättra vår portfölj och även öka andelen hållbara investeringar.\n[Speaker Guest-2]: Vi vill vara mer medvetna om vårt klimatavtryck.\n[Speaker Guest-2]: Jag förstår att det kan vara klokt att diversifiera mer internationellt.\n[Speaker Guest-2]: Vilka specifika marknader rekommenderar du?\n[Speaker Guest-2]: Vad gäller pensionsplaneringen. Hur ser ni på att maximera vår avkastning fram till pensionen?\n[Speaker Guest-2]: Vilka strategier skulle ni föreslå?\n[Speaker Guest-3]: Jag håller med Erik om att vi bör fokusera mer på hållbara investeringar.\n[Speaker Guest-3]: Det känns viktigt för oss som företag och privatpersoner.\n[Speaker Guest-3]: Kan vi också diskutera riskhantering i vår portfölj?\n[Speaker Guest-3]: Vi vill vara säkra på att vi har en bra balans mellan risk och avkastning.\n[Speaker Guest-3]: Vad ser ni som våra nästa steg när det gäller pensionsplaneringen?\n[Speaker Guest-3]: Behöver vi göra något specifikt nu?",
+  "structured_data": {
+    "client_name": "Erik och Lena",
+    "meeting_date": null,
+    "key_points": null,
+    "action_items": [
+      "discuss increasing the percentage of ESG investments",
+      "review management of pension funds",
+      "explore international market diversification",
+      "determine next steps for pension planning"
+    ],
+    "participants": null
+  },
+  "transcription_url": null,
+  "json_url": null,
+  "speaker_analysis": {
+    "speakers": [
+      {
+        "id": "Guest-1",
+        "name": "Speaker Guest-1",
+        "role": "advisor",
+        "confidence": 0.95,
+        "reasoning": "Guest-1 uses professional financial terminology, provides detailed analysis of the clients' portfolio, and suggests strategies for improvement, indicating they are the financial advisor.",
+        "utterance_count": 14
+      },
+      {
+        "id": "Guest-2",
+        "name": "Speaker Guest-2",
+        "role": "client",
+        "confidence": 0.9,
+        "reasoning": "Guest-2 asks questions about improving the portfolio and expresses interest in sustainable investments, which aligns with the role of a client seeking advice.",
+        "utterance_count": 7
+      },
+      {
+        "id": "Guest-3",
+        "name": "Speaker Guest-3",
+        "role": "client",
+        "confidence": 0.9,
+        "reasoning": "Guest-3 agrees with the client and asks about risk management and next steps, indicating they are also a client engaging in the discussion.",
+        "utterance_count": 6
+      }
+    ],
+    "transcription": [
+      "[Speaker Guest-1]: Hej, erik och Lena, tack för att ni kom idag.",
+      "[Speaker Guest-1]: Jag ser fram emot att diskutera er investeringsportfölj och era framtidsplaner.",
+      "[Speaker Guest-1]: Låt oss börja med titta på er nuvarande investeringsportfölj.",
+      "[Speaker Guest-1]: Just nu har ni 60 % av era tillgångar i aktier, 30 % i obligationer och 10 % i alternativa investeringar.",
+      "[Speaker Guest-1]: Totalt har ni en portfölj på två miljoner kronor.",
+      "[Speaker Guest-1]: Av era aktier är 40 % svenska och 60 % internationella.",
+      "[Speaker Guest-1]: Vi ser att den svenska marknaden har presterat bra senaste året, men vi vill även diversifiera mer internationellt för att minska risken.",
+      "[Speaker Guest-1]: Nu över till ESG investeringar.",
+      "[Speaker Guest-1]: Jag har sett att ni är intresserade av hållbara investeringar.",
+      "[Speaker Guest-1]: Just nu är 20 % av er portfölj i företag som uppfyller ESG kriterier.",
+      "[Speaker Guest-1]: Det finns möjlighet att öka den andelen om ni är intresserade av att fokusera mer på hållbarhet.",
+      "[Speaker Guest-1]: Låt oss också diskutera pensionsplaneringen.",
+      "[Speaker Guest-1]: Erik ni har en tjänstepension på cirka 1,5 miljoner kronor och Lena, du har en individuell pension på åttahundratusen kronor.",
+      "[Speaker Guest-1]: Det är viktigt att vi ser över hur dessa fonder förvaltas och om vi behöver göra några justeringar.",
+      "[Speaker Guest-2]: Tack, Maria, det låter bra?",
+      "[Speaker Guest-2]: Jag är intresserad av att veta mer om hur vi kan förbättra vår portfölj och även öka andelen hållbara investeringar.",
+      "[Speaker Guest-2]: Vi vill vara mer medvetna om vårt klimatavtryck.",
+      "[Speaker Guest-2]: Jag förstår att det kan vara klokt att diversifiera mer internationellt.",
+      "[Speaker Guest-2]: Vilka specifika marknader rekommenderar du?",
+      "[Speaker Guest-2]: Vad gäller pensionsplaneringen. Hur ser ni på att maximera vår avkastning fram till pensionen?",
+      "[Speaker Guest-2]: Vilka strategier skulle ni föreslå?",
+      "[Speaker Guest-3]: Jag håller med Erik om att vi bör fokusera mer på hållbara investeringar.",
+      "[Speaker Guest-3]: Det känns viktigt för oss som företag och privatpersoner.",
+      "[Speaker Guest-3]: Kan vi också diskutera riskhantering i vår portfölj?",
+      "[Speaker Guest-3]: Vi vill vara säkra på att vi har en bra balans mellan risk och avkastning.",
+      "[Speaker Guest-3]: Vad ser ni som våra nästa steg när det gäller pensionsplaneringen?",
+      "[Speaker Guest-3]: Behöver vi göra något specifikt nu?"
+    ]
+  }
+}

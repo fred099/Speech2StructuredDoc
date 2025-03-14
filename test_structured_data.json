@@ -1,0 +1,24 @@
+{
+  "client_name": "Familjen Andersson",
+  "meeting_date": "2023-10-04",
+  "key_points": "Diskussion om investeringsportföljen med fokus på nuvarande fördelning och avkastning. Intresse för att öka andelen hållbara investeringar och behov av pensionsplanering.",
+  "action_items": [
+    "Ge förslag på alternativa investeringar",
+    "Utvärdera möjligheten att flytta 30% av portföljen till ESG-fokuserade fonder",
+    "Utveckla en pensionsstrategi som maximerar pensionsavsättningar"
+  ],
+  "participants": [
+    {
+      "name": "Maria Johansson",
+      "role": "advisor"
+    },
+    {
+      "name": "Erik Andersson",
+      "role": "client"
+    },
+    {
+      "name": "Lena Karlsson",
+      "role": "client"
+    }
+  ]
+}

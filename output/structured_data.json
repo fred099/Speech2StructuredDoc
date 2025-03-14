@@ -1,0 +1,30 @@
+{
+  "client_name": "Erik och Lena",
+  "meeting_type": "consultation",
+  "key_topics": [
+    "current investment portfolio",
+    "ESG investments",
+    "pension planning",
+    "risk management"
+  ],
+  "action_items": [
+    "discuss increasing the percentage of ESG investments",
+    "review management of pension funds",
+    "explore international market diversification",
+    "determine next steps for pension planning"
+  ],
+  "financial_figures": [
+    "2,000,000 kronor",
+    "1,500,000 kronor",
+    "800,000 kronor"
+  ],
+  "risk_factors": [
+    "need for diversification to reduce risk",
+    "balance between risk and return"
+  ],
+  "advisor_name": "Maria",
+  "client_representatives": [
+    "Erik",
+    "Lena"
+  ]
+}

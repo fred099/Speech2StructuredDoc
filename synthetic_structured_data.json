@@ -1,0 +1,25 @@
+{
+  "client_name": "Familjen Andersson",
+  "meeting_date": "2023-10-05",
+  "key_points": "Diskuterade den nuvarande investeringsportföljen med en total investering på 2 miljoner kronor, fördelad på 60% aktier, 30% obligationer och 10% alternativa investeringar. Avkastningen har varit 8% de senaste 12 månaderna. Det togs upp intresse för att öka andelen hållbara investeringar och behovet av pensionsplanering.",
+  "action_items": [
+    "Ge förslag på alternativa investeringar",
+    "Utforska ESG-fokuserade fonder",
+    "Utveckla en pensionsstrategi",
+    "Maximera pensionsavsättningar"
+  ],
+  "participants": [
+    {
+      "name": "Maria Johansson",
+      "role": "advisor"
+    },
+    {
+      "name": "Erik Andersson",
+      "role": "client"
+    },
+    {
+      "name": "Lena Karlsson",
+      "role": "client"
+    }
+  ]
+}

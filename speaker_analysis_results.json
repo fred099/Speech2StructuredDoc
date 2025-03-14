@@ -1,0 +1,75 @@
+{
+  "speakers": {
+    "Guest-1": "Speaker 1",
+    "Guest-2": "Speaker 2",
+    "Guest-3": "Speaker 3"
+  },
+  "roles": {
+    "Guest-1": "advisor",
+    "Guest-2": "client",
+    "Guest-3": "client"
+  },
+  "confidence": {
+    "Guest-1": 0.95,
+    "Guest-2": 0.9,
+    "Guest-3": 0.85
+  },
+  "reasoning": {
+    "Guest-1": "This speaker provides detailed investment advice, discusses portfolio allocations, and uses professional financial terminology, indicating they are a financial advisor.",
+    "Guest-2": "This speaker asks questions about improving the portfolio and expresses interest in sustainable investments, which is typical of a client seeking advice.",
+    "Guest-3": "This speaker agrees with the client and raises concerns about risk management, indicating they are also a client sharing their preferences and goals."
+  },
+  "transcription": [
+    "[11:45:05] Speaker 1: Hej, erik och Lena, tack f\u00f6r att ni kom idag.",
+    "[11:45:08] Speaker 1: Jag ser fram emot att diskutera er investeringsportf\u00f6lj och era framtidsplaner.",
+    "[11:45:14] Speaker 1: L\u00e5t oss b\u00f6rja med titta p\u00e5 er nuvarande investeringsportf\u00f6lj.",
+    "[11:45:18] Speaker 1: Just nu har ni 60 % av era tillg\u00e5ngar i aktier, 30 % i obligationer och 10 % i alternativa investeringar.",
+    "[11:45:27] Speaker 1: Totalt har ni en portf\u00f6lj p\u00e5 tv\u00e5 miljoner kronor.",
+    "[11:45:31] Speaker 1: Av era aktier \u00e4r 40 % svenska och 60 % internationella.",
+    "[11:45:36] Speaker 1: Vi ser att den svenska marknaden har presterat bra senaste \u00e5ret, men vi vill \u00e4ven diversifiera mer internationellt f\u00f6r att minska risken.",
+    "[11:45:45] Speaker 1: Nu \u00f6ver till ESG investeringar.",
+    "[11:45:48] Speaker 1: Jag har sett att ni \u00e4r intresserade av h\u00e5llbara investeringar.",
+    "[11:45:53] Speaker 1: Just nu \u00e4r 20 % av er portf\u00f6lj i f\u00f6retag som uppfyller ESG kriterier.",
+    "[11:45:59] Speaker 1: Det finns m\u00f6jlighet att \u00f6ka den andelen om ni \u00e4r intresserade av att fokusera mer p\u00e5 h\u00e5llbarhet.",
+    "[11:46:05] Speaker 1: L\u00e5t oss ocks\u00e5 diskutera pensionsplaneringen.",
+    "[11:46:09] Speaker 1: Erik ni har en tj\u00e4nstepension p\u00e5 cirka 1,5 miljoner kronor och Lena, du har en individuell pension p\u00e5 \u00e5ttahundratusen kronor.",
+    "[11:46:17] Speaker 1: Det \u00e4r viktigt att vi ser \u00f6ver hur dessa fonder f\u00f6rvaltas och om vi beh\u00f6ver g\u00f6ra n\u00e5gra justeringar.",
+    "[11:46:23] Speaker 2: Tack, Maria, det l\u00e5ter bra?",
+    "[11:46:26] Speaker 2: Jag \u00e4r intresserad av att veta mer om hur vi kan f\u00f6rb\u00e4ttra v\u00e5r portf\u00f6lj och \u00e4ven \u00f6ka andelen h\u00e5llbara investeringar.",
+    "[11:46:34] Speaker 2: Vi vill vara mer medvetna om v\u00e5rt klimatavtryck.",
+    "[11:46:38] Speaker 2: Jag f\u00f6rst\u00e5r att det kan vara klokt att diversifiera mer internationellt.",
+    "[11:46:43] Speaker 2: Vilka specifika marknader rekommenderar du?",
+    "[11:46:47] Speaker 2: Vad g\u00e4ller pensionsplaneringen. Hur ser ni p\u00e5 att maximera v\u00e5r avkastning fram till pensionen?",
+    "[11:46:54] Speaker 2: Vilka strategier skulle ni f\u00f6resl\u00e5?",
+    "[11:46:57] Speaker 3: Jag h\u00e5ller med Erik om att vi b\u00f6r fokusera mer p\u00e5 h\u00e5llbara investeringar.",
+    "[11:47:02] Speaker 3: Det k\u00e4nns viktigt f\u00f6r oss som f\u00f6retag och privatpersoner.",
+    "[11:47:07] Speaker 3: Kan vi ocks\u00e5 diskutera riskhantering i v\u00e5r portf\u00f6lj?",
+    "[11:47:11] Speaker 3: Vi vill vara."
+  ],
+  "speaker_infos": [
+    {
+      "id": "Guest-1",
+      "display_name": "Speaker 1",
+      "role": "advisor",
+      "confidence": 0.95,
+      "reasoning": "This speaker provides detailed investment advice, discusses portfolio allocations, and uses professional financial terminology, indicating they are a financial advisor.",
+      "utterance_count": 14
+    },
+    {
+      "id": "Guest-2",
+      "display_name": "Speaker 2",
+      "role": "client",
+      "confidence": 0.9,
+      "reasoning": "This speaker asks questions about improving the portfolio and expresses interest in sustainable investments, which is typical of a client seeking advice.",
+      "utterance_count": 7
+    },
+    {
+      "id": "Guest-3",
+      "display_name": "Speaker 3",
+      "role": "client",
+      "confidence": 0.85,
+      "reasoning": "This speaker agrees with the client and raises concerns about risk management, indicating they are also a client sharing their preferences and goals.",
+      "utterance_count": 4
+    }
+  ]
+}
